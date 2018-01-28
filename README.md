@@ -25,6 +25,10 @@
 5. [Routing in Angular](http://www.dotnettips.info/learningpaths/details/58)
 6. [Authenticate and validate users in Angular applications](http://www.dotnettips.info/learningpaths/details/68)
 
+## Free Video Course 🎞
+
+* [Learn Angular 4 in persian](https://www.youtube.com/watch?v=OS7MdcHFSrs&list=PL2PvMqF3LmjYBAdfOdT7vH9MV0vGeJ-8K)
+
 ### Articles
 
 * [Getting Started with Angular](http://baboon.ir/%D8%B4%D8%B1%D9%88%D8%B9-%DA%A9%D8%A7%D8%B1-%D8%A8%D8%A7-%D9%81%D8%B1%DB%8C%D9%85-%D9%88%D8%B1%DA%A9-%D8%A7%D9%86%DA%AF%D9%88%D9%84%D8%A7%D8%B1-2/)
