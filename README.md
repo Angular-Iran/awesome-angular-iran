@@ -39,6 +39,7 @@
 # Components and Templates
 
 * [ng2-admin-rtl](https://github.com/mmdsharifi/ng2admin-rtl)
+* [AdminLTE-rtl](https://github.com/akbarjoudi/Angular2-AdminLTE)
 
 # DatePicker
 
